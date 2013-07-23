@@ -1,0 +1,2 @@
+/home/poudel/Point cloud codes/MyLibrary/CMakeFiles/DISPLAY.dir
+/home/poudel/Point cloud codes/MyLibrary/CMakeFiles/main.dir
